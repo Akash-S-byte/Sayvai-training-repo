@@ -3,3 +3,5 @@ langgraph
 langsmith
 langchain-openai
 langchain
+python-dotenv
+fastapi[standard]
